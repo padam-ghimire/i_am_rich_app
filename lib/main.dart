@@ -12,7 +12,7 @@ void main() {runApp(
       ),
       body: Center(
         child: Image(
-          image: NetworkImage('https://www.thequotablecoach.com/wp-content/uploads/2017/10/QC-1422.jpeg'),
+          image: AssetImage('images/diamond.png'),
         ),
       ),
     ),
